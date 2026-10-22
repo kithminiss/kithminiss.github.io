@@ -3,7 +3,7 @@
 export const links = {
   email: 'hiranyakithmini@gmail.com',
   linkedin: 'https://www.linkedin.com/in/kithmini-bandhusena-985079326',
-  github: 'https://github.com/kithmini-hub', // update if you rename
+  github: 'https://github.com/kithminiss', // update if you rename
   resume: '/resume.pdf', // replace public/resume.pdf with your real one
 }
 
@@ -19,7 +19,7 @@ export const projects = {
     text: 'cli and web ui, built with python, fastapi and react. for passwords it uses k-anonymity, so only the first few characters of the hash leave your machine and the password itself never goes anywhere.',
     extra: '[the part that gave you trouble]',
     stack: 'python, fastapi, react, tailwind',
-    links: [['github', 'https://github.com/kithmini-hub/breach-radar']],
+    links: [['github', 'https://github.com/kithminiss/breach-radar']],
   },
   sentinel: {
     name: 'cloud sentinel',
@@ -28,8 +28,8 @@ export const projects = {
     extra: '[one thing you learned about the cloud side from working next to it]',
     stack: 'react, tailwind, aws',
     links: [
-      ['dashboard', 'https://github.com/kithmini-hub/CloudSentinel'],
-      ['landing page', 'https://github.com/kithmini-hub/Cloud_Sentinel'],
+      ['dashboard', 'https://github.com/kithminiss/CloudSentinel'],
+      ['landing page', 'https://github.com/kithminiss/Cloud_Sentinel'],
       ['video', 'https://youtu.be/X06bWbXrj4k'],
     ],
   },
@@ -45,7 +45,7 @@ export const projects = {
     short: 'listings and filtering in plain html, css and javascript.',
     text: 'a real-estate site with listings and filtering, no frameworks.',
     stack: 'html, css, javascript',
-    links: [['github', 'https://github.com/kithmini-hub/ACS']],
+    links: [['github', 'https://github.com/kithminiss/ACS']],
   },
 }
 
